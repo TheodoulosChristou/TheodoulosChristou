@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Theodoulos Christou</h1>
 <h3 align="center">A passionate Full-Stack Developer from Cyprus</h3>
 
+<img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fardas-it.com%2Fuploads%2Fimages%2Fblogs%2Fgiph.gif&f=1&nofb=1&ipt=77ec766d3cf0ff1c777fa958f194251520fad5d029b49fab8efbfaa3d19e1e00&ipo=images" alt="Coding Gif" width="400" align="right">
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=theodouloschristou&label=Profile%20views&color=0e75b6&style=flat" alt="theodouloschristou" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theodouloschristou" alt="theodouloschristou" /></a> </p>
