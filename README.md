@@ -7,7 +7,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=theodouloschristou" alt="theodouloschristou" /></a> </p>
 
-- 🌱 I’m currently learning **Angular, ASP.NET, .NET-7**
+- 🌱 I’m currently learning **Oracle ADF Framework**
 
 - 👨‍💻 All of my projects are available at [https://github.com/TheodoulosChristou?tab=repositories](https://github.com/TheodoulosChristou?tab=repositories)
 
